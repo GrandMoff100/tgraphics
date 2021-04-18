@@ -6,8 +6,8 @@ with open('README.md', 'r') as f:
 
 setup(
     name='tgraphics',
-    version='0.0.1',
-    description='An Omni-platform curses-replacement module',
+    version='1.0.0',
+    description='An omni-platform terminal graphics module',
     long_description=read,
     long_description_content_type='text/markdown',
     author='Wizard',
