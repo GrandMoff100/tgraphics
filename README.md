@@ -2,13 +2,13 @@
 
 ## Installation
 > # Via `pip`
-> ```
-$ pip install tgraphics
-```
+> ```$ pip install tgraphics```
 
 > # Via Source from GitHub using `git`
 > ```
-$ git clone
+$ git clone https://github.com/GrandMoff100/tgraphics
+$ cd tgraphics
+$ python setup.py install```
 
 ## Usage
 ```py
